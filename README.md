@@ -1,2 +1,0 @@
-# SMGVideo
-SMGVideo Website
